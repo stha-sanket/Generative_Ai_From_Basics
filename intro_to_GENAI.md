@@ -37,3 +37,19 @@ Examples:
 📊 The more data it sees, the better it gets.
 
 ---
+
+## 3️⃣ What is **Deep Learning**?
+
+**A more advanced type of Machine Learning.**
+
+👉 **Deep Learning = ML that uses neural networks inspired by the human brain.**
+
+Think of it as **ML on steroids** 💪
+
+Examples:
+
+* Voice assistants (Siri, Alexa)
+* Image recognition (self-driving cars spotting pedestrians)
+* Real-time language translation
+
+🧠 It works really well with **huge amounts of data**.
