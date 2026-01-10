@@ -52,3 +52,27 @@ Examples:
 * Real-time language translation
 
 🧠 It works really well with **huge amounts of data**.
+
+
+## 4️⃣ What is **Generative AI (GenAI)**?
+
+**The creative cousin of AI.**
+
+👉 **GenAI = AI that can *create* new content instead of just analyzing data.**
+
+It can generate:
+
+* Text (stories, emails, code)
+* Images (art, photos)
+* Music
+* Videos
+
+Examples:
+
+* ChatGPT writing an essay
+* Midjourney creating artwork
+* AI generating music or voices
+
+✨ Instead of answering “yes/no,” GenAI says:
+
+> “Let me *make* something for you.”
