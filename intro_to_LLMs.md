@@ -13,3 +13,15 @@ They predict **the next best word**, again and again, very smartly.
 * **Gemini (Google)** – strong at reasoning, search, and multimodal tasks
 
 🗣️ That’s why you can *talk* to them like a human.
+
+## Simple Comparison Table 🧾
+
+| Term              | What it means (simple)                   |
+| ----------------- | ---------------------------------------- |
+| **AI**            | Machines acting smart                    |
+| **ML**            | Machines learning from data              |
+| **Deep Learning** | ML using brain-like networks             |
+| **GenAI**         | AI that creates new content              |
+| **LLMs**          | GenAI that understands & writes language |
+
+---
