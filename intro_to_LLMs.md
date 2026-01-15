@@ -25,3 +25,7 @@ They predict **the next best word**, again and again, very smartly.
 | **LLMs**          | GenAI that understands & writes language |
 
 ---
+
+## One-Line Summary 🚀
+
+> **AI is the goal, ML is how it learns, Deep Learning is the engine, GenAI is the creator, and LLMs are the talkative brains.**
