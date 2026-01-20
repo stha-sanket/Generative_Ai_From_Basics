@@ -29,3 +29,15 @@ They predict **the next best word**, again and again, very smartly.
 ## One-Line Summary 🚀
 
 > **AI is the goal, ML is how it learns, Deep Learning is the engine, GenAI is the creator, and LLMs are the talkative brains.**
+
+
+## Big Picture First 🧠
+
+An **LLM (Large Language Model)** is basically:
+
+> **A super-advanced autocomplete trained on massive amounts of text.**
+
+Not magic. Not thinking.
+Just *very, very good* at predicting **what word should come next**.
+
+---
