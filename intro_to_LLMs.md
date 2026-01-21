@@ -41,3 +41,29 @@ Not magic. Not thinking.
 Just *very, very good* at predicting **what word should come next**.
 
 ---
+
+
+## Step-by-Step: How LLMs Actually Work
+
+### 1️⃣ They read **TONS of text**
+
+LLMs are trained on:
+
+* Books
+* Websites
+* Articles
+* Code
+* Conversations
+
+📚 Think **millions of libraries worth of text**.
+
+From this, they learn:
+
+* Grammar
+* Facts
+* Writing styles
+* How humans usually respond
+
+They don’t *memorize* everything — they learn **patterns**.
+
+---
