@@ -67,3 +67,17 @@ From this, they learn:
 They don’t *memorize* everything — they learn **patterns**.
 
 ---
+
+### 2️⃣ Text is turned into numbers
+
+Computers don’t understand words — only numbers.
+
+So this sentence:
+
+> “Cats love milk”
+
+Gets converted into numbers called **tokens**.
+
+👉 Each word (or part of a word) becomes a number.
+
+---
