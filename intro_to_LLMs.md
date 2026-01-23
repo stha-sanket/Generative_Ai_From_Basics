@@ -81,3 +81,17 @@ Gets converted into numbers called **tokens**.
 👉 Each word (or part of a word) becomes a number.
 
 ---
+
+### 3️⃣ Neural networks spot patterns
+
+Inside the LLM is a **deep neural network** with billions of connections.
+
+It learns things like:
+
+* “Peanut butter” is often followed by “jelly”
+* Questions often end with answers
+* “Once upon a time” usually starts a story
+
+🧠 It figures out **relationships between words**, not meanings like humans do.
+
+---
