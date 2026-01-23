@@ -95,3 +95,20 @@ It learns things like:
 🧠 It figures out **relationships between words**, not meanings like humans do.
 
 ---
+
+
+### The secret sauce: **Attention**
+
+This is the game-changer.
+
+👉 **Attention** lets the model focus on the *important words* in a sentence.
+
+Example:
+
+> “The trophy doesn’t fit in the suitcase because **it** is too big.”
+
+Attention helps the model know:
+
+* “it” = **trophy**, not suitcase
+
+👀 It looks at the whole sentence, not just the last word.
