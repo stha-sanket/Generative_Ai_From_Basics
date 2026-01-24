@@ -112,3 +112,14 @@ Attention helps the model know:
 * “it” = **trophy**, not suitcase
 
 👀 It looks at the whole sentence, not just the last word.
+
+### Training = guess → check → improve
+
+During training:
+
+1. The model **guesses the next word**
+2. It checks how wrong it was
+3. It adjusts itself
+4. Repeat **billions of times**
+
+Like a kid learning language by making mistakes — just much faster
