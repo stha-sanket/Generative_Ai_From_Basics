@@ -253,26 +253,3 @@ AI (Artificial Intelligence)
 ## 13. One-Line Summary
 
 > **AI is the goal, ML is how it learns, Deep Learning is the engine, GenAI is the creator, and LLMs are the talkative brains.**
-
----
-
-## 14. Quick Review Questions
-
-1. **What's the difference between AI and GenAI?**
-   * AI analyzes/decides; GenAI creates new content
-
-2. **Why is it called "deep" learning?**
-   * Multiple layers of neural networks
-
-3. **What does "LLM" stand for?**
-   * Large Language Model
-
-4. **What's a hallucination in AI?**
-   * When AI confidently generates false information
-
-5. **Can LLMs access the internet?**
-   * Not by default—they need special tools/plugins
-
----
-
-**Remember:** GenAI is a powerful tool, but it's still a tool. It works best when combined with human creativity, judgment, and verification!
