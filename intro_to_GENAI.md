@@ -95,3 +95,44 @@ Think of it as **ML on steroids**
 > "Let me make something for you."
 
 ---
+
+## 5. What are LLMs (Large Language Models)?
+
+**The brain behind text-based GenAI.**
+
+**LLMs = AI models trained on massive amounts of text to understand and generate human language.**
+
+### How they work:
+* Trained on billions of words from books, websites, articles
+* Learn patterns in language—grammar, facts, reasoning, style
+* Predict **the next best word**, again and again, very smartly
+* The "large" refers to the number of parameters (billions!)
+
+### Popular LLMs:
+
+| Model | Company | Strengths |
+|-------|---------|-----------|
+| **GPT (ChatGPT)** | OpenAI | Conversational, creative, general-purpose |
+| **Claude** | Anthropic | Safety-focused, great at long documents, reasoning |
+| **Gemini** | Google | Strong at reasoning, search integration, multimodal |
+| **LLaMA** | Meta | Open-source, efficient |
+| **Mistral** | Mistral AI | Open-source, fast |
+
+**That's why you can talk to them like a human.**
+
+---
+
+## 6. The Family Tree
+
+```
+AI (Artificial Intelligence)
+└── Machine Learning (ML)
+    └── Deep Learning
+        └── Generative AI
+            ├── LLMs (for text)
+            ├── Image generators (for pictures)
+            ├── Audio AI (for music/voice)
+            └── Video AI (for video)
+```
+
+---
