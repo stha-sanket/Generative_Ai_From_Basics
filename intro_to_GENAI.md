@@ -188,3 +188,91 @@ AI (Artificial Intelligence)
 | **Creativity** | Limited to predefined options | Can create novel combinations |
 
 ---
+
+## 10. Common Applications of GenAI
+
+### **Text & Writing:**
+* Content creation (blogs, articles, social media)
+* Code generation and debugging
+* Summarization of long documents
+* Translation
+* Email drafting
+
+### **Images:**
+* Art generation
+* Product design mockups
+* Photo editing and enhancement
+* Marketing materials
+
+### **Business:**
+* Customer service chatbots
+* Data analysis and reporting
+* Automated documentation
+* Personalized marketing
+
+### **Education:**
+* Tutoring and explanation
+* Quiz generation
+* Lesson planning
+* Research assistance
+
+### **Creative:**
+* Storywriting
+* Music composition
+* Game development
+* Video scripting
+
+---
+
+## 11. Limitations & Challenges
+
+* **Hallucinations** – Making up false information
+* **Bias** – Reflecting biases from training data
+* **No real understanding** – Pattern matching, not true comprehension
+* **Outdated knowledge** – Training data has a cutoff date
+* **Can't access real-time info** – Unless connected to search
+* **Expensive to run** – Requires significant computing power
+* **Environmental cost** – High energy consumption
+* **Copyright concerns** – Trained on copyrighted material
+* **Job displacement fears** – May automate some jobs
+
+---
+
+## 12. The Future of GenAI
+
+**Current trends:**
+* **Multimodal AI** – Models that handle text, images, audio, video together
+* **Longer context** – Remembering more information at once
+* **Better reasoning** – Improved problem-solving abilities
+* **Personalization** – AI that adapts to individual users
+* **Smaller, faster models** – More efficient AI that runs on your device
+* **AI agents** – AI that can take actions, not just generate content
+
+---
+
+## 13. One-Line Summary
+
+> **AI is the goal, ML is how it learns, Deep Learning is the engine, GenAI is the creator, and LLMs are the talkative brains.**
+
+---
+
+## 14. Quick Review Questions
+
+1. **What's the difference between AI and GenAI?**
+   * AI analyzes/decides; GenAI creates new content
+
+2. **Why is it called "deep" learning?**
+   * Multiple layers of neural networks
+
+3. **What does "LLM" stand for?**
+   * Large Language Model
+
+4. **What's a hallucination in AI?**
+   * When AI confidently generates false information
+
+5. **Can LLMs access the internet?**
+   * Not by default—they need special tools/plugins
+
+---
+
+**Remember:** GenAI is a powerful tool, but it's still a tool. It works best when combined with human creativity, judgment, and verification!
