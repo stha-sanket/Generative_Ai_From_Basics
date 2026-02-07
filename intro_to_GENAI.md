@@ -136,3 +136,55 @@ AI (Artificial Intelligence)
 ```
 
 ---
+
+## 7. Simple Comparison Table
+
+| Term | What it means (simple) | Real-world analogy |
+|------|------------------------|-------------------|
+| **AI** | Machines acting smart | A calculator that can play chess |
+| **ML** | Machines learning from data | A student learning from practice problems |
+| **Deep Learning** | ML using brain-like networks | A student with multiple teachers, each specializing in one thing |
+| **GenAI** | AI that creates new content | An artist who can paint after seeing many paintings |
+| **LLMs** | GenAI that understands & writes language | A well-read author who can write in any style |
+
+---
+
+## 8. Key Concepts to Understand
+
+### **Training vs. Inference**
+* **Training:** Teaching the AI (expensive, takes weeks, needs huge computers)
+* **Inference:** Using the trained AI (what you do when you chat with ChatGPT)
+
+### **Parameters**
+* Think of them as the AI's "brain cells"
+* More parameters = smarter (usually), but also more expensive
+* GPT-4 has hundreds of billions of parameters
+
+### **Tokens**
+* How LLMs measure text
+* Roughly: 1 token = 0.75 words
+* "Hello world" = about 2 tokens
+
+### **Context Window**
+* How much text the AI can "remember" at once
+* Like short-term memory
+* Newer models have longer context (some can handle entire books)
+
+### **Hallucinations**
+* When AI confidently makes stuff up
+* A major limitation of current GenAI
+* Always verify important information
+
+---
+
+## 9. How is GenAI Different from Earlier AI?
+
+| Aspect | Traditional AI | Generative AI |
+|--------|---------------|---------------|
+| **Purpose** | Classify, predict, analyze | Create, generate, synthesize |
+| **Output** | Categories, numbers, decisions | Text, images, audio, video |
+| **Example task** | "Is this email spam?" | "Write an email for me" |
+| **User interaction** | Usually hidden in the background | Direct conversation possible |
+| **Creativity** | Limited to predefined options | Can create novel combinations |
+
+---
